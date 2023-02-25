@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewStaggeredGridLayout</string>
+    <string name="flower_image_description">Flower Image Description</string>
+
+</resources>
